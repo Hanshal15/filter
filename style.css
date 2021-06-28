@@ -1,3 +1,8 @@
-body {
-    background-color: cornflowerblue;
+h2 {
+  font-size: 25px;
+}
+
+.btn-success:hover {
+  background-color: red;
+
 }
