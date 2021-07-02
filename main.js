@@ -2,7 +2,7 @@ noseX = 0;
 noseY = 0;
 
 function preload() {
-    clown_nose = loadImage('https://i.postimg.cc/Kz1tRfMK/clown-nose.jpg');
+    clown_nose = loadImage('A-Mustache-Looks-Like-a-Big-Hairy-Smile.png');
 }
 
 function setup() {
